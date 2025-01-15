@@ -1,4 +1,4 @@
-# Motion Detection with OpenCV
+# Motion Detection with OpenCV (not completed)
 
 This project demonstrates a basic motion detection system using OpenCV in Python. 
 It captures live video feed from the system's camera, detects motion using background subtraction, and logs the motion events.
